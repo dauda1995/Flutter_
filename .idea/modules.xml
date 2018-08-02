@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rave-master.iml" filepath="$PROJECT_DIR$/Rave-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://C:\Users\dauda\Videos\Rave-master\rave.iml" filepath="C:\Users\dauda\Videos\Rave-master\rave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raveModule/raveModule.iml" filepath="$PROJECT_DIR$/raveModule/raveModule.iml" />
+    </modules>
+  </component>
+</project>

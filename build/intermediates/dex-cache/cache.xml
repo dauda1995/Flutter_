@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\commons-codec-1.10_012ea2d403f67a7e70bd312077a93cf90a380004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_62f9cf2a5bb4811d8113ea1050341d9c5149aa70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_44425c03950116da2743ee58383fcaa5dd1fea60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\Rave-master\raveModule\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad4e4db6a8143355c92cd9cad4ee24d403de090f">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\Rave-master-raveModule-unspecified_7040630ad8472a4ac4df29d115549497c55cfff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bd1d62ebacb1057bcc9c84789e5cde677c997bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bcd8d43c4bf3ccc600208f24c43919be9f89b954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\okhttp-3.5.0_5cea075c6a8fead2eb1402b91841446495c785b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_3ddfe2e2d71549980a88d6aac214d4c4d3f77ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\guava-19.0_71b07fc918cf2d7dedebfa47934e379bde3aeb27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_928a2401017513c15a314b11d0c83d9e1c7571bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_7645a0232f970efa67247f15f6e3ebae502c32ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_b44256a6becd39eb979926d5164b013ce13c60b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3b61a160ffa59dc7ba687d2ff1749f4bd58c634d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_8307476365ed4ff10c2410ab16a1ebcf67fd560d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_ef2e6ee3d568c73058e8f7b09eb430d2e1a369c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_42656e4d6c52dfd208427207ba32bff3f26289f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.0.0\a22d2cc94da87b254451fa8ed28afc30b4653773\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_40df74853010941c12d6118bcc3cd607e3978927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_8064cd2ad191ec7e799e56b6fbd78fb074bb32a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\jackson-databind-2.7.2_4d6b9d7ad1117b0388a952e86112042b48d69264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5da1beea66bd8aa4ff12c3d3d4397e416ba61c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\okio-1.11.0_64f9f338a264ccec1e75ddc79eef2b78f964f902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_13f16fdd3bd24fea74068b94c3abb56460204446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dauda\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="C:\Users\dauda\Videos\Rave-master\demo\build\intermediates\pre-dexed\debug\jackson-core-2.7.2_07aa7659fe40855319e7c40d55f4e352348411b0.jar" />
+    </item>
+
+</items>
